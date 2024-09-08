@@ -2,7 +2,7 @@ import React from "react";
 import "./Footer.css";
 import Wave from "../../img/wave.png";
 import Insta from "@iconscout/react-unicons/icons/uil-instagram";
-import Facebook from "@iconscout/react-unicons/icons/uil-facebook";
+import LinkedIn from "@iconscout/react-unicons/icons/uil-linkedin";
 import Gitub from "@iconscout/react-unicons/icons/uil-github";
 
 const Footer = () => {
@@ -10,15 +10,15 @@ const Footer = () => {
     <div className="footer">
       <img src={Wave} alt="" style={{ width: "100%" }} />
       <div className="f-content">
-        <span>armanshaikh.tyit@gmail.com</span>
+        <span>23ec54@aiktc.ac.in</span>
         <div className="f-icons">
-        <a href="https://www.instagram.com/__4rm4n_">
+        <a href="https://www.instagram.com/__imran_sk._">
           <Insta color="white" size={"3rem"} />
         </a>
-        <a href="https://www.facebook.com/profile.php?id=100063558170806">
-          <Facebook color="white" size={"3rem"} />
+        <a href="https://www.linkedin.com/in/imran-shaikh-a97374288">
+          <LinkedIn color="white" size={"3rem"} />
         </a>
-        <a href="https://github.com/Arman-Shaikh">
+        <a href="https://github.com/Imran-Shaikh1">
           <Gitub color="white" size={"3rem"} />
         </a>
         </div>
