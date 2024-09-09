@@ -10,15 +10,15 @@ const Footer = () => {
     <div className="footer">
       <img src={Wave} alt="" style={{ width: "100%" }} />
       <div className="f-content">
-        <span>23ec54@aiktc.ac.in</span>
+        <span>armanshaikh.tyit.com</span>
         <div className="f-icons">
-        <a href="https://www.instagram.com/__imran_sk._">
+        <a href="https://www.instagram.com/__4rm4n_">
           <Insta color="white" size={"3rem"} />
         </a>
-        <a href="https://www.linkedin.com/in/imran-shaikh-a97374288">
+        <a href="https://www.linkedin.com/in/arman-shaikh0">
           <LinkedIn color="white" size={"3rem"} />
         </a>
-        <a href="https://github.com/Imran-Shaikh1">
+        <a href="https://github.com/Arman-Shaikh/">
           <Gitub color="white" size={"3rem"} />
         </a>
         </div>
